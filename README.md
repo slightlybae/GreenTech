@@ -1,7 +1,8 @@
 # Greentech
 Social Impact League July-September 2022
 
-[Check out the Project Board here](https://github.com/ompiepy/greentech/projects/1)
+[Check out the Prototype here](https://greentech.omprakashsharma.com.np)
+
 
 ## Introduction
 
@@ -15,11 +16,3 @@ Social Impact League July-September 2022
 | Project Type      | Prototype Sprint (Green Tech) |
 | ----------- | ----------- |
 | Project Purpose      |        |
-
-## Team Progress
-
-
-## Current Challenges
-
-
-
